@@ -1,4 +1,4 @@
-module go-downloader
+module github.com/kevinmtanadi/go-downloader
 
 go 1.18
 
